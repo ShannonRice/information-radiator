@@ -1,0 +1,39 @@
+{
+    "settingsReloadIntervalMinutes": 1,
+    "fullscreen": false,
+    "autoStart": false,
+    "websites" : [
+        
+        {
+            "url" : "https://github.huit.harvard.edu/pages/epp785/kiosk/index.html",
+            "duration" : 10,
+            "tabReloadIntervalSeconds": 300
+        },
+        {
+            "url" : "https://jira.huit.harvard.edu/plugins/servlet/Wallboard/?dashboardId=13125",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        },
+        {
+            "url" : "https://jira.huit.harvard.edu/plugins/servlet/Wallboard/?dashboardId=13506",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        },
+        {
+            "url" : "https://jira.huit.harvard.edu/plugins/servlet/Wallboard/?dashboardId=12944",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        },
+        {
+            "url" : "https://trello.com/b/Zch0NHUE/work-in-progress",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        },
+        {
+            "url" : "https://trello.com/b/gzC8rIzC",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        }
+
+    ]
+}
