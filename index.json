@@ -18,7 +18,7 @@
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=06e58fcedb907bc47768dc95ca96199a#",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
-        }
+        },
           {
             "url" : "https://www.merriam-webster.com/word-of-the-day",
             "duration" : 40,
