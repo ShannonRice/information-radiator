@@ -5,7 +5,7 @@
     "websites" : [
         
         {
-            "url" : "https://github.huit.harvard.edu/pages/epp785/kiosk/index.html",
+            "url" : "https://harvard-university-icommons.github.io/information-radiator/splash/index.html",
             "duration" : 10,
             "tabReloadIntervalSeconds": 300
         },
