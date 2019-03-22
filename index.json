@@ -26,8 +26,18 @@
         },
         {
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
-            "duration" : 40,
-            "tabReloadIntervalSeconds": 120
+            "duration" : 10,
+            "tabReloadIntervalSeconds": 20
+        },
+        {
+            "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
+            "duration" : 10,
+            "tabReloadIntervalSeconds": 20
+        },
+        {
+            "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
+            "duration" : 10,
+            "tabReloadIntervalSeconds": 20
         },
         {
             "url" : "https://harvard-university-icommons.github.io/information-radiator/m-w.html",
