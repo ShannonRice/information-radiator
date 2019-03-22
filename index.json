@@ -20,11 +20,6 @@
             "tabReloadIntervalSeconds": 120
         },
           {
-            "url" : "https://www.merriam-webster.com/word-of-the-day",
-            "duration" : 40,
-            "tabReloadIntervalSeconds": 120
-        },
-          {
             "url" : "https://jira.huit.harvard.edu/secure/RapidBoard.jspa?rapidView=710",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
@@ -33,6 +28,11 @@
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
-        }        
+        },
+        {
+            "url" : "https://harvard-university-icommons.github.io/information-radiator/m-w.html",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        }    
     ]
 }
