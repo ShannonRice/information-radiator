@@ -28,8 +28,11 @@
             "url" : "https://jira.huit.harvard.edu/secure/RapidBoard.jspa?rapidView=710",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
-        }
-        
-
+        },
+        {
+            "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
+        }        
     ]
 }
