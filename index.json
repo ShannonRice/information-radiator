@@ -9,8 +9,8 @@
             "duration" : 10,
             "tabReloadIntervalSeconds": 300
         },
-        {
-            "url" : "https://jira.huit.harvard.edu/plugins/servlet/Wallboard/?dashboardId=13125",
+      /*  {
+           "url" : "https://jira.huit.harvard.edu/plugins/servlet/Wallboard/?dashboardId=13125",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
         },
@@ -24,16 +24,16 @@
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
         },
-        {
+       */ {
             "url" : "https://trello.com/b/Zch0NHUE/work-in-progress",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
         },
-        {
+       /* {
             "url" : "https://trello.com/b/gzC8rIzC",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
-        }
+       */ }
         {
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=06e58fcedb907bc47768dc95ca96199a#",
             "duration" : 40,
