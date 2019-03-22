@@ -23,7 +23,13 @@
             "url" : "https://www.merriam-webster.com/word-of-the-day",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
+        },
+          {
+            "url" : "https://jira.huit.harvard.edu/secure/RapidBoard.jspa?rapidView=710",
+            "duration" : 40,
+            "tabReloadIntervalSeconds": 120
         }
+        
 
     ]
 }
